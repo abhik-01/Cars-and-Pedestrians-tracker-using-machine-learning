@@ -1,0 +1,5 @@
+.*
+!.gitignore
+*.jpg
+*.mp4
+*/
